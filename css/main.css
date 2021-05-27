@@ -1206,9 +1206,14 @@ h6 {
   border-radius: 10px;
 }
 
+#events .cards .flip > .front b,
+#events .cards .flip > .back b {
+  font-size: 14px;
+}
+
 #events .cards .flip > .front p,
 #events .cards .flip > .back p {
-  font-size: 0.9125rem;
+  font-size: 11px;
   line-height: 160%;
   color: #999;
 }

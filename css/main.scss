@@ -1152,8 +1152,11 @@ h6 {
         padding: 1em 2em;
         background: #313131;
         border-radius: 10px;
+        b {
+          font-size: 14px;
+        }
         p {
-          font-size: 0.9125rem;
+          font-size: 11px;
           line-height: 160%;
           color: #999;
         }
