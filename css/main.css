@@ -825,7 +825,8 @@ h6 {
   }
   .main-nav .container .navbar-brand .img-responsive {
     position: relative;
-    margin-top: -15%;
+    margin-top: -10%;
+    margin-left: -6%;
     width: 65%;
   }
   .fixed-menu .container {
